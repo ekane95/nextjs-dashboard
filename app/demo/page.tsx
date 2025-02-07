@@ -1,6 +1,6 @@
 const Demo = () => {
   return (
-    <div>Demo</div>
+    <div>Demo Page</div>
   )
 }
 export default Demo;
